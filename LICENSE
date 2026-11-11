@@ -1,8 +1,113 @@
-LICENSE
+END-USER LICENSE AGREEMENT (EULA) FOR XFLIGHT
 
-You agree to not make copies of XFlight.
-Artwork CAN be used by anyone, but only in non-commercial way.
-All information we collect is anonymous; we can never use the information collected to contact you in any way.
+Last updated: 11.11.2026
 
-End-User acknowledges that XFlight does not hold any liability to aircraft manufacturers and/or airlines for any content produced using XFlight.
-End-User acknowledges that XFlight cannot be used in any malicious intent and breaking this rule removes any sort of liability from XFlight. This project is for education and entertainment purposes only.
+This End-User License Agreement ("EULA") is a legal agreement between you ("End-User", "you") and XFlight, located in Poland ("we", "us", "our") for the use of the XFlight software product ("Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound by this EULA. If you do not agree, do not install or use the Software.
+
+1. DEFINITIONS
+
+1.1. "Consumer" means a natural person who uses the Software for purposes not directly related to their business or professional activity, in accordance with the Polish Civil Code.
+1.2. "Business User" means any End-User who is not a Consumer.
+1.3. "Digital Content" means the Software and any related digital materials provided by us.
+
+2. GRANT OF LICENSE
+
+2.1. We grant you a personal, non-exclusive, non-transferable, revocable license to use the Software on a device that you own or control, solely for your personal, non-commercial purposes, in accordance with this EULA.
+2.2. The Software is licensed, not sold. We reserve all rights not expressly granted to you.
+
+3. RESTRICTIONS ON USE
+
+You agree not to:
+a) Make copies of the Software, except for one backup copy and/or different 
+b) Sell, rent, lease, sublicense, or otherwise transfer the Software to any third party not via our official download sites.
+c) Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software, except to the extent permitted by mandatory law.
+d) Modify, adapt, or create derivative works based on the Software (except for add-ons and plug-ins). 
+e) Remove, alter, or obscure any proprietary notices on the Software.
+f) Use the Software for any malicious intent, including introducing viruses, attacking other systems, or any activity that violates applicable laws.
+g) Use the Software for real-world flight training or any purpose other than education and entertainment.
+
+4. ARTWORK AND USER-GENERATED CONTENT
+
+4.1. The artwork included with XFlight (e.g., textures, models, liveries) may be used by anyone for non-commercial purposes only.
+4.2. You may not use, redistribute, or sell this artwork for any commercial purpose without our express written permission.
+4.3. This permission applies only to artwork for which we hold the necessary rights.
+
+5. PRIVACY AND DATA COLLECTION
+
+5.1. We may collect anonymous usage information (e.g., feature usage, performance data) that is not prohibited directly by laws of the European Union and/or the Republic of Poland. 
+5.2. All information we collect is anonymous and does not include contact information such as your name, email address, or phone number. We can never use the collected information to contact you in any way.
+5.3. Any processing of personal data will be carried out in accordance with the General Data Protection Regulation (GDPR) and applicable Polish data protection laws.
+
+6. INTELLECTUAL PROPERTY
+
+6.1. All title, copyright, and other intellectual property rights in and to the Software (including artwork, models, and code) are owned by us or our licensors.
+6.2. This EULA does not grant you any rights to our trademarks or logos.
+
+7. THIRD-PARTY CONTENT AND TRADEMARKS
+
+7.1. XFlight may depict real-world aircraft, airlines, or other trademarks. These are used for simulation and entertainment purposes only.
+7.2. We are not affiliated with, endorsed by, or sponsored by any aircraft manufacturer or airline.
+7.3. You acknowledge that we hold no liability to any such third parties for any content produced using XFlight.
+
+8. CONSUMER RIGHTS – MANDATORY PROVISIONS
+
+8.1. If you are a Consumer, nothing in this EULA limits or excludes your statutory rights under Polish law, including the Consumer Rights Act.
+8.2. For Consumers, we are liable for any non-conformity of the Digital Content with the contract in accordance with the Consumer Rights Act. Any provisions of this EULA that would exclude or limit this liability are not binding on Consumers.
+8.3. Any clause of this EULA that is not individually negotiated and that violates good practices by grossly infringing the Consumer's interests is considered an abusive clause and is not binding on the Consumer.
+8.4. For Consumers, any dispute arising from this EULA may be brought before the Polish common court having jurisdiction under general rules. A clause attempting to deprive the Consumer of this right is not binding.
+8.5. For Business Users, the provisions of this EULA apply in full, including the warranty disclaimers and liability limitations set out below.
+
+9. RIGHT OF WITHDRAWAL – CONSUMERS ONLY
+
+9.1. A Consumer has the right to withdraw from this EULA within 14 days from the conclusion of the contract, without giving any reason.
+9.2. To exercise the right of withdrawal, the Consumer must inform us by a clear statement (e.g., a letter sent by post or email to wintube001ofc@gmail.com).
+9.3. If the Consumer requests that the supply of Digital Content begins before the expiry of the withdrawal period, the Consumer must give express consent to this and acknowledge that they will lose the right of withdrawal once the Digital Content has been supplied. This consent and acknowledgement may be obtained through the Software installation flow or a separate checkbox.
+9.4. If the Consumer has not given such consent, the statutory 14-day withdrawal right applies.
+
+10. DISCLAIMER OF WARRANTY – BUSINESS USERS
+
+10.1. For Business Users only, the Software is provided "AS IS" and "AS AVAILABLE", without warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
+10.2. For Consumers, the statutory conformity warranty under the Consumer Rights Act applies. Nothing in this clause limits Consumer rights.
+
+11. LIMITATION OF LIABILITY
+
+11.1. For Business Users, to the maximum extent permitted by Polish law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data, arising out of or related to the use of or inability to use the Software.
+11.2. Nothing in this EULA excludes or limits our liability for:
+a) intentional damage;
+b) damage caused by gross negligence;
+c) death or personal injury;
+d) any liability that cannot be excluded or limited under mandatory Polish law.
+11.3. For Consumers, any limitation of liability is subject to the mandatory provisions of Polish law and cannot exclude liability for non-conformity of the Digital Content.
+
+12. INDEMNIFICATION
+
+12.1. For Business Users, you agree to indemnify, defend, and hold harmless XFlight from and against any claims, damages, liabilities, costs, and expenses (including reasonable attorney's fees) arising from your breach of this EULA or your use of the Software.
+12.2. For Consumers, this indemnification clause applies only to the extent permitted by mandatory Polish law.
+
+13. TERMINATION
+
+13.1. This EULA is effective until terminated.
+13.2. Your rights under this EULA will terminate automatically without notice if you fail to comply with any of its terms.
+13.3. Upon termination, you must cease all use of the Software and destroy all copies.
+13.4. Termination does not affect any rights of Consumers under mandatory Polish law.
+
+14. GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1. This EULA shall be governed by and construed in accordance with the laws of Poland, without regard to its conflict of law principles.
+14.2. For Business Users, any dispute arising from this EULA shall be subject to the exclusive jurisdiction of the Polish common courts competent for our registered office.
+14.3. For Consumers, any dispute may be brought before the Polish common court having jurisdiction under general rules. The Consumer is not deprived of the protection afforded by mandatory provisions of the law of the country where the Consumer has their habitual residence.
+
+15. GENERAL PROVISIONS
+
+15.1. This EULA constitutes the entire agreement between you and us regarding the Software and supersedes all prior agreements.
+15.2. If any provision of this EULA is held to be invalid or unenforceable, the remaining provisions will continue in full force and effect.
+15.3. For Consumers, if any provision of this EULA is deemed abusive, it is not binding on the Consumer, and the parties will be bound by the remaining provisions.
+
+16. CONTACT
+
+If you have any questions about this EULA, please contact us at:
+XFlight
+Warsaw, Poland
+wintube001ofc@gmail.com
